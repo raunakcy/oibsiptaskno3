@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         multiply=findViewById(R.id.multiply);
         plus =findViewById(R.id.plus);
         subtract=findViewById(R.id.sub);
-        equal=findViewById(R.id.btn_equal);
+        equal=findViewById(R.id.equal);
         ac=findViewById(R.id.aC);
         c=findViewById(R.id.btn_C);
         openB=findViewById(R.id.btn_openB);
